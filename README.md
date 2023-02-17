@@ -3,7 +3,7 @@
 <!-- - this is a bullet -->
 
 <!-- ## this is a sub heading -->
-### Update Burger Tracker 
+### Create an updated Burger Tracker implementing Read One, Update, and Delete Functionality
 - More practice with data binding and familiarity with using form:forms with an existing instance
 
 1. Make a task list for how to approach adding update functionality to this project.
