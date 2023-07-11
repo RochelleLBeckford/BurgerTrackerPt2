@@ -20,6 +20,13 @@ Test: Show how to add a web browser
 
 
  - ## Checklist
+ - [ ] Create a Spring Boot Application
+	- [ ] the webframe used to make Java web applications
+	- [ ] Within the terminal for this project type in -> mvn clean spring-boot:run 
+		- [ ] to run the spring boot application that was just created
+	- [ ] Go to localhost/port in your web browser to see the project 
+		- [ ] localhost:8080
+	- [ ] Ctrl + c will stop the spring boot application 
 - [ ] update [application.properties](/src/main/resources/application.properties)
 <!-- how to put in code blocks us ```-->
 ```
