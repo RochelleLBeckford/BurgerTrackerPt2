@@ -40,7 +40,7 @@
                 -->
                 <!-- 
                     -> var is the variable for iteration -> the variable of iteration can be anything but the items have to be named after the array 
-                    -> items is the artray name 
+                    -> items is the array name 
                     -> naming variable conventions -> want someone after you to look at your code and understand what you were trying to do 
                     -> make title an <a> tag so when click it all the info for that burger will show 
                 -->

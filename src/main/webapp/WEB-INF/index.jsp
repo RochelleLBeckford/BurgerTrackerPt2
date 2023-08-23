@@ -53,7 +53,7 @@
             <c:forEach var="burger" items="${burgers}">
                 <tr>
                     <td>
-                        <a href="/burgers/${book.id}">${burger.name}</a>
+                        <a href="/burgers/${burger.id}">${burger.name}</a>
                     </td>
                     <td>${burger.restaurantName}</td>
                     <td>${burger.rating}</td>
